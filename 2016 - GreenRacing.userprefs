@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ardunitiSync.cs">
+    <Files>
+      <File FileName="Assets\ardunitiSync.cs" Line="19" Column="27" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\coin_scoring.js" Line="1" Column="1" />
+      <File FileName="Assets\SplashMenu\LoadingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\SplashMenu\menuLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\ARDUnity\Scripts\Controller\AnalogInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\SplashMenu\Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
